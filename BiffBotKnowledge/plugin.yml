@@ -1,0 +1,5 @@
+name: BiffKnowledge
+author: akselm
+version: 1.0
+main: com.thestratagemmc.biffbot.BiffBotKnowledge
+depend: [BiffBot]

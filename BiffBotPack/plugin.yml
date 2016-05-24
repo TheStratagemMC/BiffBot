@@ -1,0 +1,8 @@
+name: BiffPack
+author: akselm
+version: 1.0
+soft-depend: [Brewery,Essentials]
+depend: [BiffBot]
+main: com.thestratagemmc.biffbot.BiffPack
+commands:
+  biffsay:

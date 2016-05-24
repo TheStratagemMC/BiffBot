@@ -1,0 +1,58 @@
+Remind me to fix gamemodeshift redstone
+-- repeated or finished? add an intention type, probably
+
+be able to tell biff to do things when people get on,
+ -- be able to do things in general
+ -- teleport players, give items, relay messages, run console commands, etc.
+
+ maybe abstractify this, and add a "when" type of parameter--When.NOW, When.WHEN_PLAYER_JOINS, When.SERVER_RESTART, etc, but.....
+ probably not an enum. more like an interface or a sort of listener, maybe an internal clock, or pubsub or store "need-to-do" in a file
+
+
+
+ get all the ideas from MiscListeners
+
+ fix HerochatJoin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

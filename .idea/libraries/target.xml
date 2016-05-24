@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="target">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Imported_Projects/MinecraftAikenBot/target/MinecraftAikenBot.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Imported_Projects/MinecraftAikenBot/target/original-MinecraftAikenBot.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

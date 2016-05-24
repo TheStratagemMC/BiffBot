@@ -1,0 +1,4 @@
+channel:
+  staff: "{color}[{nick}] &f{sender} &7{message}"
+  msg: "&aFrom {sender} &1~ &a{message}"
+  all: "{color}[{nick}] &f{sender}: &7{message}"

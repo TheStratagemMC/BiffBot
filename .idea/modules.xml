@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Biff-CleverBot/Biff-CleverBot.iml" filepath="$PROJECT_DIR$/Biff-CleverBot/Biff-CleverBot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BiffBot/BiffBot.iml" filepath="$PROJECT_DIR$/BiffBot/BiffBot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BiffBot-DroolChat/BiffBot-DroolChat.iml" filepath="$PROJECT_DIR$/BiffBot-DroolChat/BiffBot-DroolChat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BiffBotKnowledge/BiffBot-Droolchat.iml" filepath="$PROJECT_DIR$/BiffBotKnowledge/BiffBot-Droolchat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BiffBot-Herochat/BiffBot-Herochat.iml" filepath="$PROJECT_DIR$/BiffBot-Herochat/BiffBot-Herochat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BiffBotKnowledge/BiffBotKnowledge.iml" filepath="$PROJECT_DIR$/BiffBotKnowledge/BiffBotKnowledge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BiffBotPack/BiffBotPack.iml" filepath="$PROJECT_DIR$/BiffBotPack/BiffBotPack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BiffRSS/BiffRSS.iml" filepath="$PROJECT_DIR$/BiffRSS/BiffRSS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BiffRemote/BiffRemote.iml" filepath="$PROJECT_DIR$/BiffRemote/BiffRemote.iml" />
+    </modules>
+  </component>
+</project>

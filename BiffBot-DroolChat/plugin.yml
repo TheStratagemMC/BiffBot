@@ -1,0 +1,5 @@
+name: BiffBotDroolChat
+author: akselm
+depend: [BiffBot,DroolChat]
+version: 1.0
+main: com.thestratagemmc.biffbot.BBDroolChat

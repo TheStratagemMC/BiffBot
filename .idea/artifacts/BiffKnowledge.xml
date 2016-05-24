@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BiffKnowledge">
+    <output-path>$PROJECT_DIR$/../../Dependencies</output-path>
+    <root id="archive" name="BiffKnowledge.jar">
+      <element id="module-output" name="BiffBotKnowledge" />
+      <element id="file-copy" path="$PROJECT_DIR$/BiffBotKnowledge/plugin.yml" />
+    </root>
+  </artifact>
+</component>

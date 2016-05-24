@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BiffBotDroolChat">
+    <output-path>$PROJECT_DIR$/../../Dependencies</output-path>
+    <root id="archive" name="BiffBotDroolChat.jar">
+      <element id="module-output" name="BiffBot-DroolChat" />
+      <element id="file-copy" path="$PROJECT_DIR$/BiffBot-DroolChat/plugin.yml" />
+    </root>
+  </artifact>
+</component>
